@@ -42,6 +42,7 @@ bool isPalindrome(string s) {
 }
 ```
 
+
 **3. Next palindrome number**
 ```cpp
 bool isPal(long long n){ string s=to_string(n); int i=0,j=s.size()-1;
