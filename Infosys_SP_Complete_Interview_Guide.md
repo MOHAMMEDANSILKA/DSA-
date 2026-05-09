@@ -84,7 +84,7 @@ string reverseWords(string s) {
 }
 ```
 
-**7. Longest substring without repeating characters (sliding window)**
+**7. Longest substring without repeating characters (sliding window)  --**
 ```cpp
 int longestUnique(string s) {
     unordered_map<char, int> last;
