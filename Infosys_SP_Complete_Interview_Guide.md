@@ -1,4 +1,4 @@
-# Infosys Specialist Programmer — Complete Interview Guide (Expanded)
+#Interview Guide (Expanded)
 
 A full coverage guide: process, **40+ coding problems with C++ solutions**, OOPs, DBMS, OS, CN, SQL, Java/Python theory, aptitude, puzzles, and HR — based on real interview experiences.
 
