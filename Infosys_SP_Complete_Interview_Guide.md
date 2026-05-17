@@ -4,7 +4,6 @@ A full coverage guide: process, **40+ coding problems with C++ solutions**, OOPs
 
 ---
 
-
 ## 1. Hiring Pipeline
 
 | Stage | Format | Duration |
