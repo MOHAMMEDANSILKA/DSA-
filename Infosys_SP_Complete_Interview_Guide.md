@@ -231,7 +231,7 @@ void merge(vector<int>& a, vector<int>& b) {
 struct Node { int data; Node* next; };
 ```
 
-**17. Reverse a linked list**
+**17. Reverse a linked list done **
 ```cpp
 Node* reverse(Node* head) {
     Node *prev = NULL, *curr = head;
