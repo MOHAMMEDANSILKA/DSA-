@@ -245,7 +245,7 @@ Node* reverse(Node* head) {
 }
 ```
 
-**18. Detect cycle (Floyd's)**
+**18. Detect cycle (Floyd's) -- done**
 ```cpp
 bool hasCycle(Node* head) {
     Node *slow = head, *fast = head;
