@@ -258,7 +258,7 @@ bool hasCycle(Node* head) {
 }
 ```
 
-**19. Find middle**
+**19. Find middle **
 ```cpp
 Node* middle(Node* head) {
     Node *slow = head, *fast = head;
